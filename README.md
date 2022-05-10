@@ -26,7 +26,7 @@ The "Bot", "DoS attacks-SlowHTTPTest", and "DoS attacks-Hulk" labels were combin
 * Recall: 99.851%
 * F1-Score: 99.851%
 
-![random-forest-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/random-forest.png "Random Forest Confusion Matrix")
+![random-forest-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/random_forest.png "Random Forest Confusion Matrix")
 
 ### Dataset
 * CIC-IDS-2018 Processed Traffic Data for ML Algorithms on my Google Drive: [Drive](https://drive.google.com/file/d/1cJECqTj7ExPuwCddrCPB5RTnuk5NKvCF/view?usp=sharing)
