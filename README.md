@@ -21,10 +21,10 @@ The "Bot", "DoS attacks-SlowHTTPTest", and "DoS attacks-Hulk" labels were combin
 ![decision-tree-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/decision_tree.png "Decision Tree Confusion Matrix")
 
 #### 2- Random Forest Classifier
-* Accuracy: 99.959%
-* Precision: 99.959%
-* Recall: 99.959%
-* F1-Score: 99.959%
+* Accuracy: 99.851%
+* Precision: 99.851%
+* Recall: 99.851%
+* F1-Score: 99.851%
 
 ![random-forest-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/random-forest.png "Random Forest Confusion Matrix")
 
