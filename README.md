@@ -13,20 +13,20 @@ The "Bot", "DoS attacks-SlowHTTPTest", and "DoS attacks-Hulk" labels were combin
 
 ### Model results on test set
 #### 1- Decision Tree Classifier
-* Accuracy: 99.982%
-* Macro Average Precision: 99.968%
+* Accuracy: 99.983%
+* Macro Average Precision: 99.970%
 * Macro Average Recall: 99.978%
-* Macro Average F1-Score: 99.973%
+* Macro Average F1-Score: 99.974%
 
-![decision-tree-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/decision_tree-cm.png "Decision Tree Confusion Matrix")
+![decision-tree-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/decision_tree_cm.png "Decision Tree Confusion Matrix")
 
 #### 2- Random Forest Classifier
-* Accuracy: 99.957%
-* Macro Average Precision: 99.912%
-* Macro Average Recall: 99.960%
-* Macro Average F1-Score: 99.936%
+* Accuracy: 99.904%
+* Macro Average Precision: 99.787%
+* Macro Average Recall: 99.926%
+* Macro Average F1-Score: 99.856%
 
-![random-forest-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/random-forest-cm.png "Random Forest Confusion Matrix")
+![random-forest-confusion-matrix](trained_models_confusion_matrix_plots_on_test_set/random_forest_cm.png "Random Forest Confusion Matrix")
 
 ### Dataset
 * CIC-IDS-2018 Processed Traffic Data for ML Algorithms on my Google Drive: [Drive](https://drive.google.com/file/d/1cJECqTj7ExPuwCddrCPB5RTnuk5NKvCF/view?usp=sharing)
