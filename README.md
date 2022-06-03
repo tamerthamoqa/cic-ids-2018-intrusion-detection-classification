@@ -13,8 +13,8 @@ The "Bot", "DoS attacks-SlowHTTPTest", and "DoS attacks-Hulk" labels were combin
 
 ### Model results on test set
 #### 1- Decision Tree Classifier
-* Accuracy: 99.983%
-* Macro Average Precision: 99.970%
+* Accuracy: 99.982%
+* Macro Average Precision: 99.969%
 * Macro Average Recall: 99.978%
 * Macro Average F1-Score: 99.974%
 
